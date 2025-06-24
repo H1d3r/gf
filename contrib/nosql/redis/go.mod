@@ -1,6 +1,6 @@
 module github.com/gogf/gf/contrib/nosql/redis/v2
 
-go 1.18
+go 1.23.0
 
 require (
 	github.com/gogf/gf/v2 v2.7.0
@@ -26,9 +26,9 @@ require (
 	github.com/mattn/go-runewidth v0.0.9 // indirect
 	github.com/olekukonko/tablewriter v0.0.5 // indirect
 	go.opentelemetry.io/otel/sdk v1.14.0 // indirect
-	golang.org/x/net v0.24.0 // indirect
-	golang.org/x/sys v0.19.0 // indirect
-	golang.org/x/text v0.14.0 // indirect
+	golang.org/x/net v0.38.0 // indirect
+	golang.org/x/sys v0.31.0 // indirect
+	golang.org/x/text v0.23.0 // indirect
 	gopkg.in/yaml.v3 v3.0.1 // indirect
 )
 

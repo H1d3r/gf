@@ -1,6 +1,6 @@
 module github.com/gogf/gf/v2
 
-go 1.18
+go 1.23.0
 
 require (
 	github.com/BurntSushi/toml v1.3.2
@@ -14,8 +14,8 @@ require (
 	go.opentelemetry.io/otel v1.14.0
 	go.opentelemetry.io/otel/sdk v1.14.0
 	go.opentelemetry.io/otel/trace v1.14.0
-	golang.org/x/net v0.24.0
-	golang.org/x/text v0.14.0
+	golang.org/x/net v0.38.0
+	golang.org/x/text v0.23.0
 	gopkg.in/yaml.v3 v3.0.1
 )
 
@@ -25,5 +25,5 @@ require (
 	github.com/mattn/go-colorable v0.1.13 // indirect
 	github.com/mattn/go-isatty v0.0.20 // indirect
 	github.com/mattn/go-runewidth v0.0.9 // indirect
-	golang.org/x/sys v0.19.0 // indirect
+	golang.org/x/sys v0.31.0 // indirect
 )
